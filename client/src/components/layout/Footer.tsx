@@ -107,7 +107,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <div className="text-gray-400 text-sm">
-            © 2024 Solux. All rights reserved.
+            © 2025 Solux. All rights reserved.
           </div>
           
           <div className="flex items-center space-x-6 text-sm">

@@ -188,7 +188,7 @@ const Header = () => {
               <div className="space-y-4">
                 {/* GitHub Link */}
                 <motion.a
-                  href="https://github.com/solux"
+                  href="https://github.com/AaryanNarayani/solux"
                   className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors duration-300 font-medium cursor-pointer"
                   onClick={() => setIsMobileMenuOpen(false)}
                   target="_blank"
